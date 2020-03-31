@@ -25,7 +25,7 @@
     "eslint-plugin-react-hooks": "^1.7.0",
     "express": "^4.17.1",
     "isomorphic-unfetch": "^3.0.0",
-    "next": "^9.1.2",
+    "next": "^9.3.2",
     "now": "^16.4.4"
   }
 }
